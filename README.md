@@ -4,8 +4,8 @@
 ```
 #!php
 
-A platform which can host online programming competitions (much like codechef and spoj).API of Hackerearth was used for online compilation and execution of programmes.
-
+A platform which can host online programming competitions (much like codechef and spoj).
+API of Hackerearth was used for online compilation and execution of programmes.
 
 Technology Used : 
 HTML,CSS,JQuery/Javascript,Hackerearth api,PHP with mysql.
